@@ -1,4 +1,6 @@
-const CONTRACT_NAME = "nft-frontend-simple-mint.blockhead.testnet";
+// const CONTRACT_NAME = "nft-frontend-simple-mint.blockhead.testnet";
+const CONTRACT_NAME = "nft-mintt-frontend.m20k.testnet";
+
 
 function getConfig(env) {
   switch (env) {
